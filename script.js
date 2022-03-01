@@ -1,3 +1,4 @@
+/*comment*/
 var myApp = angular.module("myList", []);
 myApp.controller("myListController", function($scope){
     $scope.items = ['Randall', 'Luigi', "Raymon"];
